@@ -1,0 +1,23 @@
+table, tr, td {
+    border: 1px solid blue  ;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+th{background-color: red;
+    border: 1px solid blue  ;
+    
+}
+td{
+    background-color: yellow;
+    display: table-cell;
+    border: 1px solid blue  ;
+    
+}
+th, td{
+    padding: 10px;
+}
+table{border-spacing: 10px;
+margin: auto;
+}
