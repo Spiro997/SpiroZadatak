@@ -1,0 +1,50 @@
+#nav{
+    width: 200px;
+    background-color:rgb(212, 26, 51);  ;
+    float: left ;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    padding: 10px; 
+    height: 382px;
+
+   
+}
+#main{
+    background-color: yellow;
+    width: auto;
+    height: 400px;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+#base{
+    width: 900px;
+    margin: auto;
+    border: 1px solid red;
+    background-color:rgb(212, 26, 51);
+}
+
+    
+
+#texty{
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: skyblue;
+    text-indent:30px;
+    position: initial; 
+    width: auto;
+    height: 322px;
+  
+}
+#pic{
+    float: left;
+    padding: 20px;
+    margin: auto;
+}
+h1{
+  
+   
+text-indent: 50px;
+}
